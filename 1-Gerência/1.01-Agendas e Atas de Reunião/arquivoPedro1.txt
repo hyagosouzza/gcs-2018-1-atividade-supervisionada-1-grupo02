@@ -1,4 +1,9 @@
 Nome artefato: arquivoPedro1.txt
-Nome do(a) autor(a): Pedro Henrique Coimbra e Silva
+Nome do(a) autor(a): Pedro Henrique Coimbra e Silva <- Esse é o cara
 Data de criação: 22/04/2018
 Hora de criação: 21:43:30
+
+Nome artefato: arquivoPedro1.txt
+Nome do(a) autor(a) da alteração: João Pedro Rodrigues Nunes Pinheiro
+Data da alteração: 22/04/2018
+Hora da alteração: 22:33:30
