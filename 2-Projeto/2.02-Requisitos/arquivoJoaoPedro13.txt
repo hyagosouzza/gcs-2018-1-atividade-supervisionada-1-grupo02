@@ -1,0 +1,6 @@
+Nome artefato: arquivoJoaoPedro13.txt
+Nome do(a) autor(a) da alteração: João Pedro Rodrigues Nunes Pinheiro
+Data da alteração: 23/04/2018
+Hora da alteração: 00:18:30
+
+arquivo criado no ramo2
