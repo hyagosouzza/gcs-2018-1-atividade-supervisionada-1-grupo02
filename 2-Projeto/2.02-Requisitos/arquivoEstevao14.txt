@@ -1,0 +1,5 @@
+Nome artefato: arquivoEstevao14.txt
+Nome do(a) autor(a): Estevão Cristino
+Data de criação: 23/04/2018
+Hora de criação: 00:04:00
+documento criado no master
