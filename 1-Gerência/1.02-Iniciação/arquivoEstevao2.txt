@@ -1,4 +1,9 @@
 Nome artefato: arquivoEstevao2.txt
-Nome do autor: Estevão Cristino da Silva	
+Nome do autor: Estevão Cristino da Silva O que
 Data de criação: 22/04/2018
 Hora de criação: 22:10:42
+
+Nome artefato: arquivoEstevao2.txt
+Nome do autor da alteração: Hyago Vieira de Souza
+Data da alteração: 22/04/2018
+Hora da alteração: 22:40:02

@@ -1,4 +1,9 @@
 Nome artefato: arquivoEstevao3.txt
-Nome do autor: Estevão Cristino da Silva	
+Nome do autor: Estevão Cristino da Silva Sabe
 Data de criação: 22/04/2018
 Hora de criação: 22:10:11
+
+Nome artefato: arquivoEstevao3.txt
+Nome do autor da alteração: Hyago Vieira de Souza
+Data da alteração: 22/04/2018
+Hora da alteração: 22:40:29
