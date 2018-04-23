@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nome artefato: arquivoGabriel8.com pq eu quero
 Nome do(a) autor(a): Gabriel Pacheco 
 Data de criação: 22/04/2018 alterando esssa linha aqui
@@ -5,3 +6,13 @@ Hora de criação: 23:13:00 Essa tbm
 
 Isso é uma nova linha
 <fim do documento>
+=======
+Nome artefato: arquivoGabriel8.txt
+Nome do(a) autor(a): Gabriel Pacheco
+Data de criação: 22/04/2018
+Hora de criação: 23:13:00
+
+
+Ta trolando certeza
+HAHAHAH
+>>>>>>> master
