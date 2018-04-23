@@ -1,4 +1,9 @@
 Nome artefato: arquivoHyago2.txt
 Nome do(a) autor(a): Hyago Vieira de Souza
-Data de criação: 22/04/2018
+Data de criação: 22/04/2018 -> Hoje
 Hora de criação: 21:58:26
+
+Nome artefato: arquivoHyago2.txt
+Nome do(a) autor(a) da alteração: Gabriel Pacheco
+Data da alteração: 22/04/2018
+Hora da alteração: 22:40:20

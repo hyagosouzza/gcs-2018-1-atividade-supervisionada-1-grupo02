@@ -1,4 +1,9 @@
 Nome artefato: arquivoHyago1.txt
-Nome do(a) autor(a): Hyago Vieira de Souza
+Nome do(a) autor(a): Hyago Vieira de Souza -> Gerente massa!
 Data de criação: 22/04/2018
 Hora de criação: 21:56:24
+
+Nome artefato: arquivoHyago1.txt
+Nome do(a) autor(a) da alteração: Gabriel Pacheco
+Data da alteração: 22/04/2018
+Hora da alteração: 22:39:00
