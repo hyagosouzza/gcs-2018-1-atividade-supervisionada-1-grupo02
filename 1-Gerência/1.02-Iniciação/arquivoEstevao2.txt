@@ -1,0 +1,4 @@
+Nome artefato: arquivoEstevao2.txt
+Nome do autor: Estevão Cristino da Silva	
+Data de criação: 22/04/2018
+Hora de criação: 22:10:42

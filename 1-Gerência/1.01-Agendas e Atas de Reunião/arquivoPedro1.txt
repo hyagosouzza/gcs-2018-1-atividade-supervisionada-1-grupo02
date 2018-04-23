@@ -1,4 +1,4 @@
-Nome artefato: arquivoPedro.txt
+Nome artefato: arquivoPedro1.txt
 Nome do(a) autor(a): Pedro Henrique Coimbra e Silva
 Data de criação: 22/04/2018
 Hora de criação: 21:43:30
