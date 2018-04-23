@@ -1,5 +1,6 @@
 Nome artefato: arquivoJoaoPedro8.txt
-Nome do autor: João Pedro Rodrigues Nunes Pinheiro
+
+Nome do autor: João Pedro Rodrigues Nunes Pinheiro < so na fulegaremzinha >
 Data de criação: 22/04/2018
 Hora de criação: 23:05:50
 
@@ -7,3 +8,4 @@ Nome artefato: arquivoJoaoPedro8.txt
 Nome do(a) autor(a) da alteração: Pedro Henrique Coimbra e Silva
 Data da alteração: 22/04/2018
 Hora da alteração: 23:59:30
+
