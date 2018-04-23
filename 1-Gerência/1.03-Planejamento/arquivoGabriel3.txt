@@ -1,4 +1,9 @@
 Nome artefato: arquivoGabriel3.txt
-Nome do(a) autor(a): Gabriel Pacheco
+Nome do(a) autor(a): Gabriel Pacheco (O cowboy vai te pegar - Rio Negro e Solimões)
 Data de criação: 22/04/2018
 Hora de criação: 21:53:00
+
+Nome artefato: arquivoGabriel1.txt
+Nome do(a) autor(a) da alteração: Estevão Cristino
+Data da alteração: 22/04/2018
+Hora da alteração: 22:03:00

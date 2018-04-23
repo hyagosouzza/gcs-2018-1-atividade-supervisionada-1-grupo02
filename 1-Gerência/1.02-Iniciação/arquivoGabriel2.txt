@@ -1,4 +1,9 @@
 Nome artefato: arquivoGabriel2.txt
-Nome do(a) autor(a): Gabriel Pacheco
+Nome do(a) autor(a): Gabriel Pacheco 
 Data de criação: 22/04/2018
-Hora de criação: 21:52:00
+Hora de criação: 21:52:666 <- cuidado com o cramunhão
+
+Nome artefato: arquivoGabriel1.txt
+Nome do(a) autor(a) da alteração: Estevão Cristino
+Data da alteração: 22/04/2018
+Hora da alteração: 22:04:00

@@ -1,4 +1,9 @@
-Nome artefato: arquivoGabriel1.txt
-Nome do(a) autor(a): Gabriel Pacheco
+Nome artefato: arquivoGabriel1.txt Nao sei oque alterar!
+Nome do(a) autor(a): Gabriel Pacheco 
 Data de criação: 22/04/2018
 Hora de criação: 21:50:00
+
+Nome artefato: arquivoGabriel1.txt
+Nome do(a) autor(a) da alteração: Estevão Cristino
+Data da alteração: 22/04/2018
+Hora da alteração: 22:03:00
