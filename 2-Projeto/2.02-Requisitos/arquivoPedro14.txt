@@ -1,0 +1,6 @@
+Nome artefato: arquivoPedro14.txt
+Nome do(a) autor(a): Pedro Henrique Coimbra e Silva
+Data de criação: 23/04/2018
+Hora de criação: 00:00:30
+
+documento criado no master
