@@ -1,4 +1,7 @@
 Nome artefato: arquivoPedro8.txt
-Nome do(a) autor(a): Pedro Henrique Coimbra e Silva
-Data de criação: 22/04/2018
-Hora de criação: 23:05:30
+Nome do(a) autor(a): Pedro Henrique Coimbra e Silva <DimensÃ£o chamada ramo2>
+<Linha entra linhas do documento>
+Data de criaÃ§Ã£o: 22/04/2018
+Hora de criaÃ§Ã£o: 23:05:30
+
+<Nova linha no final do documento>
