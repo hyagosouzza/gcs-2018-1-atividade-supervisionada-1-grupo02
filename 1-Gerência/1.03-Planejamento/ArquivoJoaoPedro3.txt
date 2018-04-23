@@ -1,4 +1,9 @@
 Nome artefato: ArquivoJoaoPedro3.txt
-Nome do autor: João Pedro Rodrigues Nunes Pinheiro
-Data de criação: 22/04/2018
+Nome do autor: João Pedro Rodrigues Nunes Pinheiro < Sabe que que aconteceu com o cara, ne?! >
+Data de criação: 22/04/2018 
 Hora de criação: 21:54:20
+
+Nome artefato: ArquivoJoaoPedro3.txt
+Nome do(a) autor(a) da alteração: Pedro Henrique Coimbra e Silva
+Data da alteração: 22/04/2018
+Hora da alteração: 22:35:30
